@@ -7,7 +7,7 @@
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 입력된 단어가 회문이 맞는지 출력할 수 있게 하는 조건이 빠져 있습니다.
     - 조건 중 하나인 함수가 포함되어 있지 않습니다.
-    - (https://github.com/rumelay/Aiffel_quest_cr/blob/c098abedfee6ae39498a79c12b2996a2a6deb68d/544.png)
+    - ![https://github.com/rumelay/Aiffel_quest_cr/blob/c098abedfee6ae39498a79c12b2996a2a6deb68d/544.png]
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
